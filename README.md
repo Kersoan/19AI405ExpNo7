@@ -1,5 +1,5 @@
 <h1>Ex-NO--07-Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Kersoan P S</h3>
+<h3>Name: Kersoan P </h3>
 <h3>Register Number : 212221230050 </h3>
 
 # Aim: 
